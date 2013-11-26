@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+PrevalenceBase/
+build/
+out/
